@@ -27,4 +27,5 @@ if __name__ == '__main__':
     fibonacci = FiboIter()
     for element in fibonacci:
         print(element)
-        time.sleep(0.5)
+        time.sleep(0.05) 
+    
